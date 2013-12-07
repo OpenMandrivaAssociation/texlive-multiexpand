@@ -6,7 +6,7 @@
 # catalog-version 1.1
 Name:		texlive-multiexpand
 Version:	1.1
-Release:	3
+Release:	4
 Summary:	Variations on the primitive command \expandafter
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/multiexpand
