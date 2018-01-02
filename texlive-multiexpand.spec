@@ -1,12 +1,6 @@
-# revision 28768
-# category Package
-# catalog-ctan /macros/latex/contrib/multiexpand
-# catalog-date 2013-01-08 16:25:57 +0100
-# catalog-license lppl1.3
-# catalog-version 1.1
 Name:		texlive-multiexpand
-Version:	1.1
-Release:	9
+Version:	1.5
+Release:	1
 Summary:	Variations on the primitive command \expandafter
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/multiexpand
@@ -38,12 +32,10 @@ experimental LaTeX 3 kernel).
 
 #-----------------------------------------------------------------------
 %files
-%{_texmfdistdir}/tex/latex/multiexpand/multiexpand.sty
-%doc %{_texmfdistdir}/doc/latex/multiexpand/README
-%doc %{_texmfdistdir}/doc/latex/multiexpand/multiexpand.pdf
+%{_texmfdistdir}/tex/generic/multiexpand
+%doc %{_texmfdistdir}/doc/generic/multiexpand
 #- source
-%doc %{_texmfdistdir}/source/latex/multiexpand/multiexpand.dtx
-%doc %{_texmfdistdir}/source/latex/multiexpand/multiexpand.ins
+%doc %{_texmfdistdir}/source/generic/multiexpand
 
 #-----------------------------------------------------------------------
 %prep
