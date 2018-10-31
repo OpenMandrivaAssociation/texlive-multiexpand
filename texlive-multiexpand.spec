@@ -1,6 +1,6 @@
 Name:		texlive-multiexpand
 Version:	1.5
-Release:	1
+Release:	2
 Summary:	Variations on the primitive command \expandafter
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/multiexpand
