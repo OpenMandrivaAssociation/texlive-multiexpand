@@ -3,7 +3,7 @@ Version:	45943
 Release:	2
 Summary:	Variations on the primitive command \expandafter
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/multiexpand
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/multiexpand
 License:	LPPL1.3
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/multiexpand.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/multiexpand.doc.r%{version}.tar.xz
